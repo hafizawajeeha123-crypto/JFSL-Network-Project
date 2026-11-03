@@ -1,8 +1,6 @@
 JFSL Network Design and Implementation
 Design and implementation of a secure, redundant network for **Jubilee Financial
 Services Ltd (JFSL)**, Nairobi, Kenya, built in **Cisco Packet Tracer**.
-Topology
-![Topology](docs/topology.png)
 
 Features
 - Hierarchical design (Core / Distribution / Access) with redundancy
